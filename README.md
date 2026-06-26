@@ -1,3 +1,11 @@
+<!-- Project Banner -->
+<p align="center">
+  <img src="docs/images/ssms-banner.png" alt="Student Skill Management System Banner" width="100%">
+</p>
+
+# 🎓 Student Skill Management System
+
+
 # 🎓 Student Skill Management System
 
 > A Java EE web application for managing student skills, assessments, learning resources, progress tracking, recommendations, and certificates using **Servlets, JSP, JDBC, MySQL, and MVC Architecture**.
